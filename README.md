@@ -1,10 +1,12 @@
 # Login Page Demo for DXC technology
 
-This repository contains both the front and backend of the login page assessment requested.
+This repository contains both the front and backend of the login application assessment requested.
 The demo can be accessed at the following URL: https://phenomenal-pony-11b2ff.netlify.app/
 
 ## Demo Features
-- Login and session stored in a cookie
+- Login functionality
+- Session stored in a cookie
+- Single page application
 - Welcome page shows username, fullname and roles
 - Managers are able to view a list of users that are under them
 - Http Basic security
