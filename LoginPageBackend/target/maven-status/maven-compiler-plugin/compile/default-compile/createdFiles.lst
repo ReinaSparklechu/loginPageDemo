@@ -1,0 +1,12 @@
+com\loginPage\LoginPageBackend\security\CustomAuthManager$1.class
+com\loginPage\LoginPageBackend\repositories\UserRepository.class
+com\loginPage\LoginPageBackend\security\CustomUserDetailService.class
+com\loginPage\LoginPageBackend\domain\User.class
+com\loginPage\LoginPageBackend\security\WebConfig.class
+com\loginPage\LoginPageBackend\security\SecurityConfig$1.class
+com\loginPage\LoginPageBackend\security\SecurityConfig.class
+com\loginPage\LoginPageBackend\LoginPageBackendApplication.class
+com\loginPage\LoginPageBackend\controller\LoginController.class
+com\loginPage\LoginPageBackend\repositories\ManagerRepository.class
+com\loginPage\LoginPageBackend\domain\Manager.class
+com\loginPage\LoginPageBackend\security\CustomAuthManager.class

@@ -1,0 +1,2 @@
+runtime: java17
+entrypoint: java -Xmx128m -jar LoginPageBackend-0.0.1-SNAPSHOT.jar
