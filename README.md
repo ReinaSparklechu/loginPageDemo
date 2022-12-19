@@ -1,4 +1,4 @@
-# Login Page Demo for DXC technology
+# Login Application Demo for DXC technology
 
 This repository contains both the front and backend of the login application assessment requested.
 The demo can be accessed at the following URL: https://phenomenal-pony-11b2ff.netlify.app/
